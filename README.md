@@ -1,4 +1,4 @@
-**🧠 MERN ThinkBoard **
+🧠 MERN ThinkBoard
 
 ThinkBoard is a simple full-stack note-taking web application built using the MERN stack.
 It allows users to create, view, edit, and delete notes through a clean and responsive UI.
