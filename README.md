@@ -1,7 +1,7 @@
-MERN ThinkBoard
+**🧠 MERN ThinkBoard **
 
-A simple full-stack note-taking web app built using the MERN stack.
-ThinkBoard allows users to create, view, edit, and delete notes in a clean and responsive interface.
+ThinkBoard is a simple full-stack note-taking web application built using the MERN stack.
+It allows users to create, view, edit, and delete notes through a clean and responsive UI.
 
 🔗 Live Demo:
 👉 https://mern-thinkboard-a3fh.onrender.com
@@ -28,24 +28,20 @@ Database: MongoDB
 
 Deployment: Render
 
-📦 Installation (Local)
+📦 Run Locally
 git clone https://github.com/Snehal-Vinod-Pawar/mern-thinkboard.git
 cd mern-thinkboard
 
-
 Backend
-
 cd backend
 npm install
 npm run dev
 
-
 Frontend
-
 cd frontend
 npm install
 npm run dev
 
-📌 Purpose
+🎯 Purpose
 
 This project was built to practice full-stack MERN development, REST APIs, and deployment.
